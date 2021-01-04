@@ -57,7 +57,7 @@
     "pwa-switcher": true,
     "screenshot": "screenshot.png",
     "chatbutton": {
-      "phone": "0556618880",
+      "phone": "+972556618880",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
@@ -77,7 +77,8 @@
       "name": "",
       "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
       "themeColor": "#6592e6"
-    }
+    },
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
