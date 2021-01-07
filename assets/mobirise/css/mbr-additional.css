@@ -695,6 +695,9 @@ a {
 .cid-sk50MNXxdY .nav-dropdown .dropdown-menu {
   padding-top: 0;
 }
+.cid-sk50MNXxdY .navbar-buttons {
+  flex-wrap: wrap;
+}
 .cid-sk50MNXxdY .dropdown .dropdown-menu .dropdown-item {
   width: auto;
   -webkit-transition: all 0.25s ease-in-out;
@@ -963,7 +966,7 @@ a {
   }
 }
 .cid-sk50TjjDmv {
-  background-image: url("../../../assets/images/background11.jpg");
+  background-image: url("../../../assets/images/background11.jpeg");
 }
 .cid-sk50VH8E8N {
   padding-top: 6rem;
